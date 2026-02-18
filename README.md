@@ -61,3 +61,6 @@ The objective is to estimate the probability customer is still alive/active (pro
 4. "One-Time lost" segment based on KMeans automatically labeled as Churned
 
 
+<img width="1172" height="648" alt="image" src="https://github.com/user-attachments/assets/27ffebfb-91a4-436e-8095-c579b466164b" />
+<img width="1156" height="647" alt="image" src="https://github.com/user-attachments/assets/f16f6257-a5b3-484e-b01d-2d15dfcef9c5" />
+
